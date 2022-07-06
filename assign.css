@@ -1,0 +1,36 @@
+
+img{
+
+}
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+header{
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    background-color: #38383d;
+    background-blend-mode: multiply;
+}
+section{}
+.container{}
+.content{}
+.container h1{
+    text-align: center;
+    font-size: 65px;
+    color: #fff;
+    padding: 100px;
+    letter-spacing: 2px;
+}
+p{}
+.donate{
+    color: #fff;
+    background: #e92626;
+    padding: 10px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
